@@ -1,0 +1,17 @@
+Before we dive into all the details, let's first answer the question: what exactly is Power BI?
+
+Power BI is essentially a data visualization tool. This means that we can visualize our data, but it's not just any data visualization tool; it's the most commonly used data visualization tool in the industry.
+
+In Gartner's Magic Quadrant, Power BI is the clear leader. This means that it is the best in its ability to execute, and also the best in its completeness of vision.
+
+With Power BI, we can, of course, also analyze our data. However, before we visualize and analyze our data, we usually need to do a lot of data transformation work. This is usually done at the beginning of every process when we want to create a report and visualize data. It is necessary to fix errors in the data, rename columns, and replace values. So, usually a big part of our work goes into data transformation before we visualize our data.
+
+Even after data transformation, we are not ready yet to visualize our data. This is because we usually have multiple data sources. So, we have multiple tables that we are going to load into Power BI, and those tables need to be connected. This means that we need to create relationships between those tables so that we can combine those tables and use them interactively together. This is why we need to build our data model.
+
+All of this work is done in Power BI Desktop, which is the local application that we download and install locally on our machine.
+
+Now, if we want to share our reports and collaborate with team members, we need to publish the report to the cloud. There are different plans available, and we will dive deeper into this, of course, in this course.
+
+In addition to Power BI Desktop and the cloud service, we also have the Power BI mobile app. We can download and install this app on our smartphone so that we can access the reports from wherever we are.
+
+As you have seen, the big work is usually done in Power BI Desktop. Therefore, if you want to master Power BI, you need to master Power BI Desktop. This is where most of the work is done, and this is why we will also start with Power BI Desktop. In the next lecture, we will download and install it on our local machine.
